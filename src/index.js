@@ -3,7 +3,7 @@ import Dialog from './Dialog.vue'
 import ModalsContainer from './ModalsContainer.vue'
 import { createDivInBody } from './utils'
 
-const defaultComponentName = 'Modal'
+const defaultComponentName = 'custom-modal'
 
 const UNMOUNTED_ROOT_ERROR_MESSAGE =
   '[vue-js-modal] ' +
